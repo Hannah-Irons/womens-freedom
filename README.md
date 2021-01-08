@@ -1,6 +1,6 @@
-## Udacity Data Science nanodegree: Write a Data Science Blog Post
+# Udacity Data Science nanodegree: Write a Data Science Blog Post
 
-# An analysis into Women's Freedom using the Human Freedom Index
+### An analysis into Women's Freedom using the Human Freedom Index
 
 ## Installation
 
