@@ -72,6 +72,9 @@ LINK: https://www.kaggle.com/gsutters/the-human-freedom-index
 - /results
 All plots created, formatted and saved by this project.
 
+- Github repo
+https://github.com/Hannah-Irons/womens-freedom
+
 ## Results
 
     1. There is a distinct relationship between the women's SS factor and the overall hf_score differentiated by region. First world regions have both a high women's SS score and hf_score, with women's SS being a couple points higher. there is a low variance across these regions (Western Europe, North America, Oceania). In the poorest regions (Sub-Saharan Africa and the middle east and Northern Africa) women's SS and hf_score are some of the lowest and more in line with each out in their relative scales. The variance between the factors is higher and there's a number of outliers.
